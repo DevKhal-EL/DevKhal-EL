@@ -1,4 +1,4 @@
-# Olá! Sou Benício Khalel
+# Olá! 👋, Meu nome é Benício Khalel
 
 **Estudante de Desenvolvimento de Sistemas | Tecnologia & Usinagem**
 
@@ -18,7 +18,7 @@ Acredito que conhecimento precisa ser colocado em prática para realmente se con
   <a href="https://github.com/DevKhal-EL">
     <img src="https://img.shields.io/badge/GitHub-DevKhal--EL-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/beni_khalel">
+  <a href="https://instagram.com/b👋eni_khalel">
     <img src="https://img.shields.io/badge/Instagram-@beni__khalel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ben%C3%ADcio-khalel-391302447/">
