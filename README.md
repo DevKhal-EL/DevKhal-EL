@@ -103,6 +103,8 @@ Projeto de longo prazo voltado ao estudo dos fundamentos de computação e desen
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevKhal-EL&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKhal-EL&layout=compact&theme=tokyonight" />
