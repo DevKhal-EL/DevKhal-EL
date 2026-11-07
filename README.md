@@ -99,17 +99,13 @@ Projeto de longo prazo voltado ao estudo dos fundamentos de computação e desen
 
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-
-
-## 📊 GitHub Stats
+---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevKhal-EL&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKhal-EL&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DevKhal-EL&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DevKhal-EL&layout=compact&theme=tokyonight)
 ---
 
 ## 💡 Filosofia
