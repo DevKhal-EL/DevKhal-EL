@@ -1,4 +1,4 @@
-# Olá! 👋, Meu nome é Benício Khalel
+# Olá! 👋, Eu sou Benício Khalel
 
 **Estudante de Desenvolvimento de Sistemas | Tecnologia & Usinagem**
 
